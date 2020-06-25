@@ -1,0 +1,7 @@
+tensorflow
+Keras
+pypianoroll
+numpy
+matplotlib
+joblib
+Shared Array (Linux)

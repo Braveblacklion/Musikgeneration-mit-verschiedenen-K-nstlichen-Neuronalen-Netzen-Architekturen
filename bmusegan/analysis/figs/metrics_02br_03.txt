@@ -1,0 +1,64 @@
+==============================
+======= empty bar rate =======
+==============================
+training data             0.57
+pretrained (02)           0.51
+train (02b)               0.56
+train (02r)               0.63
+train (03r)               0.48
+==============================
+====== # of pitch used =======
+==============================
+training data             4.66
+pretrained (02)           4.49
+train (02b)               4.95
+train (02r)               6.88
+train (03r)               4.84
+==============================
+==== qualified note rate =====
+==============================
+training data             0.88
+pretrained (02)           0.43
+train (02b)               0.86
+train (02r)               0.84
+train (03r)               0.83
+==============================
+======= polyphonicity ========
+==============================
+training data             0.45
+pretrained (02)           0.24
+train (02b)               0.31
+train (02r)               0.50
+train (03r)               0.26
+==============================
+======= note in scale ========
+==============================
+training data             0.59
+pretrained (02)           0.63
+train (02b)               0.69
+train (02r)               0.70
+train (03r)               0.69
+==============================
+==== drum in pattern rate ====
+==============================
+training data             0.92
+pretrained (02)           0.53
+train (02b)               0.52
+train (02r)               0.44
+train (03r)               0.54
+==============================
+====== # of chroma used ======
+==============================
+training data             2.60
+pretrained (02)           2.46
+train (02b)               2.85
+train (02r)               3.31
+train (03r)               2.46
+==============================
+======= tonal distance =======
+==============================
+training data             0.96
+pretrained (02)           1.13
+train (02b)               1.12
+train (02r)               1.26
+train (03r)               0.92

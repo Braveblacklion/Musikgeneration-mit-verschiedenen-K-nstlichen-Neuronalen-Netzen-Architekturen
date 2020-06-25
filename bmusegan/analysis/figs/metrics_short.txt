@@ -1,0 +1,96 @@
+==============================
+======= empty bar rate =======
+==============================
+training data             0.57
+pretrained (01)           0.44
+pretrained (02)           0.51
+pretrained (03)           0.46
+pretrained (04)           0.37
+train (01b)               0.47
+train (02b)               0.56
+train (03r)               0.48
+train (04r)               0.56
+==============================
+====== # of pitch used =======
+==============================
+training data             4.66
+pretrained (01)           3.75
+pretrained (02)           4.49
+pretrained (03)           3.48
+pretrained (04)          18.00
+train (01b)               8.13
+train (02b)               4.95
+train (03r)               4.84
+train (04r)               7.49
+==============================
+==== qualified note rate =====
+==============================
+training data             0.88
+pretrained (01)           0.61
+pretrained (02)           0.43
+pretrained (03)           0.50
+pretrained (04)           0.41
+train (01b)               0.35
+train (02b)               0.86
+train (03r)               0.83
+train (04r)               0.67
+==============================
+======= polyphonicity ========
+==============================
+training data             0.45
+pretrained (01)           0.18
+pretrained (02)           0.24
+pretrained (03)           0.14
+pretrained (04)           0.20
+train (01b)               0.26
+train (02b)               0.31
+train (03r)               0.26
+train (04r)               0.32
+==============================
+======= note in scale ========
+==============================
+training data             0.59
+pretrained (01)           0.64
+pretrained (02)           0.63
+pretrained (03)           0.61
+pretrained (04)           0.59
+train (01b)               0.63
+train (02b)               0.69
+train (03r)               0.69
+train (04r)               0.68
+==============================
+==== drum in pattern rate ====
+==============================
+training data             0.92
+pretrained (01)           0.53
+pretrained (02)           0.53
+pretrained (03)           0.51
+pretrained (04)           0.45
+train (01b)               0.55
+train (02b)               0.52
+train (03r)               0.54
+train (04r)               0.55
+==============================
+====== # of chroma used ======
+==============================
+training data             2.60
+pretrained (01)           2.24
+pretrained (02)           2.46
+pretrained (03)           2.06
+pretrained (04)           2.74
+train (01b)               4.41
+train (02b)               2.85
+train (03r)               2.46
+train (04r)               3.03
+==============================
+======= tonal distance =======
+==============================
+training data             0.96
+pretrained (01)           1.23
+pretrained (02)           1.13
+pretrained (03)           1.20
+pretrained (04)           1.38
+train (01b)               1.17
+train (02b)               1.12
+train (03r)               0.92
+train (04r)               1.25
