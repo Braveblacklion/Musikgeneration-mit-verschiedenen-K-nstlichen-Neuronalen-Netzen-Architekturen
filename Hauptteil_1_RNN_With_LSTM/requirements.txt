@@ -80,7 +80,7 @@ ply==3.11
 pretty-midi==0.2.8
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
-protobuf==3.11.4
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pycparser==2.19
