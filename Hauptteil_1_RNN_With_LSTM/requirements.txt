@@ -87,8 +87,8 @@ pycparser==2.19
 pydot==1.4.1
 pydotplus==2.0.2
 pyFluidSynth==1.2.5
-Pygments==2.5.2
-PyJWT==2.4.0
+Pygments==2.7.4
+PyJWT==1.7.1
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
 pypianoroll==0.5.3
