@@ -8,7 +8,7 @@ bleach==3.1.0
 blinker==1.4
 bokeh==1.4.0
 cachetools==3.1.1
-certifi==2020.4.5.1
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 Click==7.0
@@ -39,7 +39,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.16.0
 Jinja2==2.11.1
-joblib==0.14.1
+joblib==1.2.0
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==5.3.4
@@ -76,11 +76,11 @@ parso==0.6.1
 partd==1.1.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==9.3.0
 pretty-midi==0.2.8
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
-protobuf==3.11.4
+protobuf==3.18.3
 psutil==5.6.7
 ptyprocess==0.6.0
 pyasn1==0.4.8
@@ -113,7 +113,7 @@ six==1.14.0
 sortedcontainers==2.1.0
 tblib==1.6.0
 tensorboard==2.1.0
-tensorflow==1.15.0
+tensorflow==2.9.3
 tensorflow-estimator==1.15.1
 termcolor==1.1.0
 terminado==0.8.3
