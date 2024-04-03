@@ -74,7 +74,7 @@ pandas==1.0.1
 pandocfilters==1.4.2
 parso==0.6.1
 pickleshare==0.7.5
-Pillow==10.2.0
+Pillow==10.3.0
 pipenv==2018.11.26
 ply==3.11
 pretty-midi==0.2.8
